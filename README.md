@@ -1,7 +1,3 @@
-Here’s a clear, well-formatted README.md for your Streamgraph Visualizer project:
-
----
-
 # 📊 Streamgraph Visualizer
 
 A minimal yet powerful Python script that creates beautiful **streamgraphs** using sine and cosine waves. This project leverages `matplotlib` and `numpy` to visually demonstrate layered data with a flowing "wiggle" baseline.
